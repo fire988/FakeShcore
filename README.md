@@ -8,4 +8,4 @@
 
 # 编译环境：Visual studio 2022
 
-#如果不方便编译，可以直接下载本项目x64\release下的shcore.dll文件。
+#如果不方便编译，可以直接下载本项目x64\release下的shcore.dll文件，将这个文件与你的exe程序放在一起即可。
